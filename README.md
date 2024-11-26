@@ -9,3 +9,10 @@ Approaches and algorithms for each stage are fully described in the Jupyter Note
 - [train.ipynb](./train.ipynb)
 - [head_to_body_coef.ipynb](./head_to_body_coef.ipynb)
 - [detect.ipynb](./detect.ipynb)
+
+---
+
+Datasets:
+
+- [Crown Human](https://www.crowdhuman.org/) - large open source dataset.
+- [Museum Human](https://universe.roboflow.com/museum-humans/museum-human/browse) - small custom-labeled dataset.
